@@ -1,0 +1,20 @@
+  
+body{
+background: rgb(238,238,255);
+background: linear-gradient(180deg, rgba(238,238,255,1) 0%, rgba(141,168,197,1) 0%, rgba(185,153,144,1) 100%);
+
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    color: #FFF;
+}
+.container{
+    max-width: 400px;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
